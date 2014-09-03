@@ -1,7 +1,7 @@
 Perl-ISO15693-OmronCF
 =====================
 
-Perl-ISO15693-OmronCF (RFID::ISO15693::OmronCF::RW) is a Perl library which drive OMRON V720-HMF01 RFID Reader/Wrirer.
+Perl-ISO15693-OmronCF (RFID::ISO15693::OmronCF::RW) is a Perl library which drives OMRON V720-HMF01 RFID Reader/Writer.
 
 This library is developed in 2004 and I was a beginner programmer. Please forgive poorness of codes.
 
